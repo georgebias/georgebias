@@ -1,4 +1,4 @@
-I currently work as a Software Engineer in the Insurance community at Itaú, specializing in developing systems and applications both on the frontend and backend.
+I currently work as a Software Engineer in the Insurance community at [Itaú](https://www.itau.com.br), specializing in developing systems and applications both on the frontend and backend.
 
 I work on developing APIs and services using tools such as Spring Boot, Kafka, and Terraform to build robust and scalable systems. Additionally, I work on the frontend when necessary, especially with Angular.
 
